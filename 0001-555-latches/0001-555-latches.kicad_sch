@@ -5,9 +5,10 @@
 	(uuid "11cec59d-a989-4950-8b21-3f1fb45ca1cc")
 	(paper "A4")
 	(title_block
-		(title "0001: 555 Latches")
-		(date "2025-10-06")
-		(rev "01")
+		(title "555 Latches")
+		(date "2025-10-08")
+		(rev "v0.0.1")
+		(company "https://github.com/marcinciapa-el/0001")
 	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x02"
