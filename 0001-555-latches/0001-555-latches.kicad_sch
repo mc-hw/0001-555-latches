@@ -3054,7 +3054,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 82.55 95.5674 90)
 			(effects
 				(font
@@ -3133,7 +3133,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10nF"
 			(at 138.43 96.5199 0)
 			(effects
 				(font
@@ -3675,7 +3675,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10nF"
 			(at 214.63 96.5199 0)
 			(effects
 				(font
@@ -4172,7 +4172,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10nF"
 			(at 39.37 98.044 0)
 			(effects
 				(font
@@ -5769,7 +5769,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470n"
+		(property "Value" "470nF"
 			(at 28.702 97.79 0)
 			(effects
 				(font
@@ -5839,7 +5839,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22u"
+		(property "Value" "22uF"
 			(at 245.11 95.6309 0)
 			(effects
 				(font
@@ -6251,7 +6251,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "YELLO"
 			(at 257.81 95.5674 90)
 			(effects
 				(font
@@ -6539,7 +6539,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "GREEN"
 			(at 171.45 95.5674 90)
 			(effects
 				(font
