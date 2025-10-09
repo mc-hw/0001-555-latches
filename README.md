@@ -6,6 +6,8 @@ Monostable, bistable, astable latches build with 555 integrated circuit
 
 ## Schematic
 
+<img src="images/img.png" alt="Schematics" style="width:300px;"/>
+
 ## PCB
 
 ## Bill of Materials
