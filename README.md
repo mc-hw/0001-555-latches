@@ -54,3 +54,40 @@ are:
 - [555 Timer Calculator](https://www.build-electronic-circuits.com/circuit-calculator-conversion/555-timer-calculator/)
 - [KiCad Schematic Editor documentation](https://docs.kicad.org/9.0/en/eeschema/eeschema.html)
 
+## Photo-relation
+
+Circuits were tested before assembly. Testing assembly latch:
+
+<img src="images/photorelation/01_lab.jpg" alt="Testing lab" style="width:300px;"/>
+
+555 integrated circuit in the bread board:
+
+<img src="images/photorelation/02_555_board.jpg" alt="555 in bread board" style="width:300px;"/>
+
+Minimal astable latch configuration resistance measurement:
+
+<img src="images/photorelation/03_astable_r_min.jpg" alt="Min astable resistance" style="width:300px;"/>
+
+Maximal astable latch configuration resistance measurement:
+
+<img src="images/photorelation/04_astable_r_max.jpg" alt="Max astable resistance" style="width:300px;"/>
+
+Astable latch testing circuit ready:
+
+<img src="images/photorelation/05_astable_ready.jpg" alt="Astable testing circuit ready" style="width:300px;"/>
+
+Last astable latch continuity testing before providing power:
+
+<img src="images/photorelation/06_astable_continuity.jpg" alt="Continuity test" style="width:300px;"/>
+
+Astable latch maximal frequency measurement:
+
+<img src="images/photorelation/07_astable_f_max.jpg" alt="Max astable frequency" style="width:300px;"/>
+
+Astable latch minimal frequency measurement:
+
+<img src="images/photorelation/08_astable_f_min.jpg" alt="Min astable frequency" style="width:300px;"/>
+
+Astable latch maximal current measurement:
+
+<img src="images/photorelation/09_astable_i_max.jpg" alt="Max astable current" style="width:300px;"/>
