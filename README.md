@@ -2,11 +2,13 @@
 
 ## Description
 
+<img src="images/schematic.png" alt="Schematics" style="width:600px;"/>
+
 The circuit contains of three latches: astable, monostable and bistable. Each of them is build around a separate 555
 integrated circuit with configured parameters.
 
 The device is powered with 5-15V. The voltage is provided to screw connector J1 `DC_IN`, pin 1 is +, pin 2 is -.
-The maximum output current of each output signal is ~15mA (depending on the power voltage) [TODO: measure].
+The maximum output current of each output signal is ~15mA (input voltage/1000).
 
 The astable latch is built around integrated circuit U1. Potentiometers RV1 and RV2, together with resistors R1 and R2
 and capacitor C1 regulate the frequency and duty cycle of the `ASTBL_OUT` output signal. The frequency range is
@@ -22,11 +24,7 @@ C4 regulate the pulse duration of the `MSTBL_OUT` output signal. The pulse is tr
 duration range is 25ms-25s. The `MSTBL_OUT` signal is provided to screw connector J4 [TODO: replace]. The state of
 `MSTBL_OUT` signal is visualised with D3 LED.
 
-## Schematic
-
-<img src="images/schematic.png" alt="Schematics" style="width:600px;"/>
-
-## PCB
+## Assembly and running
 
 ## Bill of Materials
 
