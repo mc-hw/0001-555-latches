@@ -24,7 +24,7 @@ duration range is 25ms-25s. The `MSTBL_OUT` signal is provided to screw connecto
 
 ## Schematic
 
-<img src="images/img.png" alt="Schematics" style="width:300px;"/>
+<img src="images/schematic.png" alt="Schematics" style="width:600px;"/>
 
 ## PCB
 
@@ -56,7 +56,7 @@ are:
 
 ## Photo-relation
 
-Circuits were tested before assembly. Testing assembly latch:
+Circuits were tested before assembly. Testing astable latch:
 
 <img src="images/photorelation/01_lab.jpg" alt="Testing lab" style="width:300px;"/>
 
