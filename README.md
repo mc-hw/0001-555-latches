@@ -2,13 +2,10 @@
 
 ## Description
 
-<img src="images/schematic.png" alt="Schematics" style="width:600px;"/>
-
 The circuit contains of three latches: astable, monostable and bistable. Each of them is build around a separate 555
 integrated circuit with configured parameters.
 
-The device is powered with 5-15V. The voltage is provided to screw connector J1 `DC_IN`, pin 1 is +, pin 2 is -.
-The maximum output current of each output signal is ~15mA (input voltage/1000).
+<img src="images/schematic.png" alt="Schematics" style="width:600px;"/>
 
 The astable latch is built around integrated circuit U1. Potentiometers RV1 and RV2, together with resistors R1 and R2
 and capacitor C1 regulate the frequency and duty cycle of the `ASTBL_OUT` output signal. The frequency range is
@@ -17,19 +14,28 @@ D1 LED.
 
 The bistable latch is build around integrated circuit U2. Pushing SW1 button triggers high output state of `BSTBL_OUT`
 signal. Pushing SW2 button triggers low output state of `BSTBL_OUT` signal. The `BSTBL_OUT` signal is provided to screw
-connector J3 [TODO: replace]. The state of `BSTBL_OUT` signal is visualised with D2 LED.
+connector J3. The state of `BSTBL_OUT` signal is visualised with D2 LED.
 
 The monostable latch is build around integrated circuit U3. Potentiometer RV3, together with resistor R6 and capacitor
 C4 regulate the pulse duration of the `MSTBL_OUT` output signal. The pulse is triggered by pushing SW3 button. The pulse
-duration range is 25ms-25s. The `MSTBL_OUT` signal is provided to screw connector J4 [TODO: replace]. The state of
-`MSTBL_OUT` signal is visualised with D3 LED.
+duration range is 25ms-25s. The `MSTBL_OUT` signal is provided to screw connector J4. The state of `MSTBL_OUT` signal is
+visualised with D3 LED.
 
-## Assembly and running
+The maximum output current of each output signal is ~15mA (input voltage/1000).
+
+## Assembly
+
+The circuit should be assembled on a single-sided [TODO: confirm], THT printed circuit board.
 
 <img src="images/pcb.png" alt="PCB assemble layout" style="width:300px;"/>
 <img src="images/gerber.png" alt="PCB gerber" style="width:300px;"/>
 
-[TODO: describe]
+## Running
+
+The device should be powered with 5-15VDC. The voltage should be provided to screw connector J1 `DC_IN`, pin 1 is +,
+pin 2 is -.
+
+After providing the voltage all output signals should be available (observe LED visualisations).
 
 ## Bill of Materials
 
@@ -44,19 +50,20 @@ duration range is 25ms-25s. The `MSTBL_OUT` signal is provided to screw connecto
 ## PCB preparation
 
 During this project different techniques of preparing printed circuit boards were compared and tested, including:
+
 - Cleaning the surface
-  - [TODO: list]
+    - [TODO: list]
 - Paths printouts
-  - chalk paper [TODO: parameters]
-  - transparent film [TODO: patameters]
+    - chalk paper [TODO: parameters]
+    - transparent film [TODO: patameters]
 - Transferring paths
-  - [TODO: list]
+    - [TODO: list]
 - Etching
-  - [TODO: list]
+    - [TODO: list]
 - Copper protection
-  - Solder mask Mechanik
-  - Solder mask [TODO: name]
-  - Tine
+    - Solder mask Mechanik
+    - Solder mask [TODO: name]
+    - Tine
 
 ## Photo-relation
 
