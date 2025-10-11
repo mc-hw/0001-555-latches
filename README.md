@@ -26,6 +26,9 @@ duration range is 25ms-25s. The `MSTBL_OUT` signal is provided to screw connecto
 
 ## Assembly and running
 
+<img src="images/pcb.png" alt="PCB assemble layout" style="width:300px;"/>
+<img src="images/gerber.png" alt="PCB gerber" style="width:300px;"/>
+
 [TODO: describe]
 
 ## Bill of Materials
