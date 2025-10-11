@@ -26,12 +26,21 @@ duration range is 25ms-25s. The `MSTBL_OUT` signal is provided to screw connecto
 
 ## Assembly and running
 
+[TODO: describe]
+
 ## Bill of Materials
 
-## Outcomes
+[TODO: generate]
 
-The goal of this project is to compare different techniques of preparing printed circuit boards. The tested techniques
-are:
+## References
+
+- [555 Timer Tutorial](https://www.build-electronic-circuits.com/555-timer/)
+- [555 Timer Calculator](https://www.build-electronic-circuits.com/circuit-calculator-conversion/555-timer-calculator/)
+- [KiCad Schematic Editor documentation](https://docs.kicad.org/9.0/en/eeschema/eeschema.html)
+
+## PCB preparation
+
+During this project different techniques of preparing printed circuit boards were compared and tested, including:
 - Cleaning the surface
   - [TODO: list]
 - Paths printouts
@@ -45,12 +54,6 @@ are:
   - Solder mask Mechanik
   - Solder mask [TODO: name]
   - Tine
-
-## References
-
-- [555 Timer Tutorial](https://www.build-electronic-circuits.com/555-timer/)
-- [555 Timer Calculator](https://www.build-electronic-circuits.com/circuit-calculator-conversion/555-timer-calculator/)
-- [KiCad Schematic Editor documentation](https://docs.kicad.org/9.0/en/eeschema/eeschema.html)
 
 ## Photo-relation
 
@@ -89,3 +92,11 @@ Astable latch minimal frequency measurement:
 Astable latch maximal current measurement:
 
 <img src="images/photorelation/09_astable_i_max.jpg" alt="Max astable current" style="width:300px;"/>
+
+Bistable latch testing:
+
+<img src="images/photorelation/10_bistable_test.jpg" alt="Testing bistable latch" style="width:300px;"/>
+
+Monostable latch testing:
+
+<img src="images/photorelation/11_monostable_test.jpg" alt="Testing monostable latch" style="width:300px;"/>
