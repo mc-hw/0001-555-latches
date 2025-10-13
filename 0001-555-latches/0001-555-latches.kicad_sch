@@ -6301,7 +6301,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "YELLO"
+		(property "Value" "YELLOW"
 			(at 257.81 95.5674 90)
 			(effects
 				(font

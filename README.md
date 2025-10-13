@@ -46,7 +46,7 @@ After providing the voltage all output signals should be available (observe LED 
 | C4                   | 1   | 22uF      |
 | D1                   | 1   | RED       |
 | D2                   | 1   | GREEN     |
-| D3                   | 1   | YELLO     |
+| D3                   | 1   | YELLOW    |
 | J1                   | 1   | DC_IN     |
 | J2                   | 1   | ASTBL_OUT |
 | J3                   | 1   | BSTBL_OUT |
