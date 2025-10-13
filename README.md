@@ -39,7 +39,23 @@ After providing the voltage all output signals should be available (observe LED 
 
 ## Bill of Materials
 
-[TODO: generate]
+| Reference            | Qty | Value     |
+|----------------------|-----|-----------|
+| C1                   | 1   | 470nF     |
+| C2,C3,C5             | 3   | 10nF      |
+| C4                   | 1   | 22uF      |
+| D1                   | 1   | RED       |
+| D2                   | 1   | GREEN     |
+| D3                   | 1   | YELLO     |
+| J1                   | 1   | DC_IN     |
+| J2                   | 1   | ASTBL_OUT |
+| J3                   | 1   | BSTBL_OUT |
+| J4                   | 1   | MSTBL_OUT |
+| R1,R2,R6,R7,R8,R9    | 6   | 1k        |
+| R3,R4,R5,R10,R11,R12 | 6   | 10k       |
+| RV1,RV2,RV3          | 3   | 1M        |
+| SW1,SW2,SW3          | 3   | SW_Push   |
+| U1,U2,U3             | 3   | NE555P    |
 
 ## References
 
