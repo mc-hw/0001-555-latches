@@ -6,9 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "555 Latches")
-		(date "2025-10-08")
-		(rev "v0.0.1")
-		(company "https://github.com/marcinciapa-el/0001")
+		(date "${CURRENT_DATE}")
+		(rev "${VERSION}")
+		(company "${GH_REPO}")
 	)
 	(lib_symbols
 		(symbol "Connector:Barrel_Jack_Switch"
