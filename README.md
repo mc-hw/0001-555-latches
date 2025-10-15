@@ -25,15 +25,14 @@ The maximum output current of each output signal is ~15mA (input voltage/1000).
 
 ## Assembly
 
-The circuit should be assembled on a single-sided [TODO: confirm], THT printed circuit board.
+The circuit should be assembled on a single-sided, THT printed circuit board.
 
 <img src="images/pcb.png" alt="PCB assemble layout" style="width:300px;"/>
 <img src="images/gerber.png" alt="PCB gerber" style="width:300px;"/>
 
 ## Running
 
-The device should be powered with 5-15VDC. The voltage should be provided to screw connector J1 `DC_IN`, pin 1 is +,
-pin 2 is -.
+The device should be powered with 5-15VDC provided to J1 `DC_IN` (center-positive DC jack 2.1/5.5).
 
 After providing the voltage all output signals should be available (observe LED visualisations).
 
@@ -62,6 +61,9 @@ After providing the voltage all output signals should be available (observe LED 
 - [555 Timer Tutorial](https://www.build-electronic-circuits.com/555-timer/)
 - [555 Timer Calculator](https://www.build-electronic-circuits.com/circuit-calculator-conversion/555-timer-calculator/)
 - [KiCad Schematic Editor documentation](https://docs.kicad.org/9.0/en/eeschema/eeschema.html)
+- [KiCad YouTube tutorial 1](https://youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB&si=8JaQM5K1sOJ2W4WG)
+- [KiCad YouTube tutorial 2](https://youtube.com/playlist?list=PLEBQazB0HUyQ5YJSdCBb79orXaR3Uk5vm&si=labIkKh_z3xuK7w0)
+- [KiCad YouTube tutorial 3](https://www.youtube.com/playlist?list=PLUOaI24LpvQPls1Ru_qECJrENwzD7XImd)
 
 ## PCB preparation
 
