@@ -28,7 +28,6 @@ The maximum output current of each output signal is ~15mA (input voltage/1000).
 The circuit should be assembled on a single-sided, THT printed circuit board.
 
 <img src="images/pcb.png" alt="PCB assemble layout" style="width:300px;"/>
-<img src="images/gerber.png" alt="PCB gerber" style="width:300px;"/>
 
 ## Running
 
