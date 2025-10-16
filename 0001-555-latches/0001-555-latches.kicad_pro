@@ -58,12 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "clearance|170130571|109000000|f2edb18f-7539-440a-9a5b-4bc3d5186be9|6986c354-8f52-458d-a406-d3caa6ec1bd9",
-          "Capacitor's leads too close"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
