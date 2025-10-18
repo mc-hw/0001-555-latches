@@ -63,24 +63,78 @@ After providing the voltage all output signals should be available (observe LED 
 - [KiCad YouTube tutorial 1](https://youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB&si=8JaQM5K1sOJ2W4WG)
 - [KiCad YouTube tutorial 2](https://youtube.com/playlist?list=PLEBQazB0HUyQ5YJSdCBb79orXaR3Uk5vm&si=labIkKh_z3xuK7w0)
 - [KiCad YouTube tutorial 3](https://www.youtube.com/playlist?list=PLUOaI24LpvQPls1Ru_qECJrENwzD7XImd)
+- Preparing PCBs using thermal transfer (Youtube, in Polish):
+    - [1](https://www.youtube.com/watch?v=IV76AiosMgo)
+    - [2](https://www.youtube.com/watch?v=NjvKmZZtHUM)
+    - [3](https://www.youtube.com/watch?v=1L4GrPDR9TE) - great effect
+    - [4](https://www.youtube.com/watch?v=EEXGR3g5FFA) - interesting way of positioning chalk paper 
 
 ## PCB preparation
 
 During this project different techniques of preparing printed circuit boards were compared and tested, including:
 
 - Cleaning the surface
-    - [TODO: list]
+  - cleaning milk
+  - sandpaper (1000)
+  - IPA
+  - Nitro
+  - cleaning milk + IPA
+  - sandpaper + IPA
 - Paths printouts
-    - chalk paper [TODO: parameters]
-    - transparent film [TODO: patameters]
+  - chalk paper [TODO: parameters] *
+  - transparent film [TODO: patameters]
+  - Paper from magazine 
 - Transferring paths
-    - [TODO: list]
+  - Ironing on the board, from the top, 2.5 dots temperature
+  - Ironing on the reverted iron, 2.5 dots temperature, after sticking chalk paper with capton tape  
+  - Ironing on the reverted iron, 2.5 dots temperature, placing chalk paper quickly on the hot copper  
+  - Ironing on the reverted iron, 2.5 dots temperature, after sticking tonner first
+  - Ironing on the reverted iron, 3 dots temperature, after sticking tonner first with 2.5 dots *
+- Removing chalk paper
+  - In the water (toothbrush at the end)
+  - In the water
+  - In the warm water with few drops of dish soap (toothbrush at the end)
+  - In the warm water with few drops of dish soap
+  - In the cold water with washing powder (toothbrush at the end)
+  - In the cold water with washing powder
+  - vinegar 
+- Fixing broken paths
+  - marker
+  - corrector
+- Preparing chemistry
+  - NaS to 50 C in a bottle, half a bag to 1.5L
 - Etching
-    - [TODO: list]
+  - FeCl
+  - NaS (B327) (laying on the top)
+  - NaS (B327) (drawning and moving)
+  - NaS (B327) (drawning and moving, with boiled water around)
+  - NaS (B327) (hanging from the top)
+  - NaS (B327) (hanging from the top, with boiled water around)
+- Removing tonner
+  - Nitro
+  - sandpaper 
 - Copper protection
-    - Solder mask Mechanik
-    - Solder mask [TODO: name]
-    - Tine
+  - Solder mask Mechanik
+  - Solder mask [TODO: name] *
+  - Tine
+  - colophony in nitro
+  - Nothing
+- Solder mask removal
+  - Film stencil *
+  - scraping
+- Drills 
+  - Mounting points before etching, rest after tinning 
+  - Before etching *
+  - Before tining
+  - After tinning
+- Silk screen
+  - Ironed from film under solder mask
+  - Ironed from film on the solder mask
+  - Ironed from chalk paper under solder mask
+- Protecting from oxidising
+  - drawning in methylated spirits (denaturat) *
+  - nothing
+  - colophony in nitro
 
 ## Photo-relation
 
