@@ -84,6 +84,20 @@ During this project different techniques of preparing printed circuit boards wer
     - Solder mask [TODO: name]
     - Tine
 
+## PCB ordering
+
+Gerber files should be generated for each PCB manufacturer individually, every manufacturer have a different
+requirements for Gerber files.
+
+Considered manufacturers:
+- [Satland Prototype (pl)](https://www.prototypy.com/sites_pcbplugins/pcborder/58)
+- [Laskar (pl)](https://laskar.com.pl/)
+- [Margol (pl)](https://www.fabrykapcb.pl/index.html)
+- [EMS Electronix (pl)](https://www.ems-elektronix.com/zapytania-ofertowe/#formularz-ofertowy)
+- [ts (pl)](https://tspcb.pl/zamow-wycen/)
+- [PCB Way (ch)](https://www.pcbway.com/)
+- [multi-cb (de)](https://portal.multi-circuit-boards.eu/)
+
 ## Photo-relation
 
 Circuits were tested before assembly. Testing astable latch:
