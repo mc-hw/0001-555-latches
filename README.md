@@ -3,23 +3,25 @@
 ## Description
 
 The circuit contains of three latches: astable, monostable and bistable. Each of them is build around a separate 555
-integrated circuit with configured parameters.
+integrated circuit with configurable parameters.
 
 <img src="images/schematic.png" alt="Schematics" style="width:600px;"/>
 
 The astable latch is built around integrated circuit U1. Potentiometers RV1 and RV2, together with resistors R1 and R2
-and capacitor C1 regulate the frequency and duty cycle of the `ASTBL_OUT` output signal. The frequency range is
-1Hz-1kHz. The `ASTBL_OUT` signal is provided to screw connector J2. The state of `ASTBL_OUT` signal is visualised with
-D1 LED.
+and capacitor C1 regulate the frequency and duty cycle of the `ASTBL_OUT` output signal according to
+[555 Timer Calculator](https://www.build-electronic-circuits.com/circuit-calculator-conversion/555-timer-calculator/).
+The frequency range is 1Hz-1kHz. The `ASTBL_OUT` signal is provided to screw connector J2. The state of `ASTBL_OUT`
+signal is visualised with D1 LED.
 
 The bistable latch is build around integrated circuit U2. Pushing SW1 button triggers high output state of `BSTBL_OUT`
 signal. Pushing SW2 button triggers low output state of `BSTBL_OUT` signal. The `BSTBL_OUT` signal is provided to screw
 connector J3. The state of `BSTBL_OUT` signal is visualised with D2 LED.
 
 The monostable latch is build around integrated circuit U3. Potentiometer RV3, together with resistor R6 and capacitor
-C4 regulate the pulse duration of the `MSTBL_OUT` output signal. The pulse is triggered by pushing SW3 button. The pulse
-duration range is 25ms-25s. The `MSTBL_OUT` signal is provided to screw connector J4. The state of `MSTBL_OUT` signal is
-visualised with D3 LED.
+C4 regulate the pulse duration of the `MSTBL_OUT` output signal according to
+[555 Timer Calculator](https://www.build-electronic-circuits.com/circuit-calculator-conversion/555-timer-calculator/).
+The pulse is triggered by pushing SW3 button. The pulse duration range is 25ms-25s. The `MSTBL_OUT` signal is provided
+to screw connector J4. The state of `MSTBL_OUT` signal is visualised with D3 LED.
 
 The maximum output current of each output signal is ~15mA (input voltage/1000).
 
@@ -81,6 +83,20 @@ During this project different techniques of preparing printed circuit boards wer
     - Solder mask Mechanik
     - Solder mask [TODO: name]
     - Tine
+
+## PCB ordering
+
+Gerber files should be generated for each PCB manufacturer individually, every manufacturer have a different
+requirements for Gerber files.
+
+Considered manufacturers:
+- [Satland Prototype (pl)](https://www.prototypy.com/sites_pcbplugins/pcborder/58)
+- [Laskar (pl)](https://laskar.com.pl/)
+- [Margol (pl)](https://www.fabrykapcb.pl/index.html)
+- [EMS Electronix (pl)](https://www.ems-elektronix.com/zapytania-ofertowe/#formularz-ofertowy)
+- [ts (pl)](https://tspcb.pl/zamow-wycen/)
+- [PCB Way (ch)](https://www.pcbway.com/)
+- [multi-cb (de)](https://portal.multi-circuit-boards.eu/)
 
 ## Photo-relation
 
