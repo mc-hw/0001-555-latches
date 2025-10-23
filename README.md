@@ -82,7 +82,7 @@ After providing the voltage all output signals should be available (observe LED 
 
 Circuits were tested using breadboard before assembly. Each latch was tested separately.
 
-Testing station:
+Testing site:
 
 <img src="images/photorelation/01_lab.jpg" alt="Testing lab" style="width:300px;"/>
 
