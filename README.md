@@ -71,7 +71,7 @@ After providing the voltage all output signals should be available (observe LED 
     - [3](https://www.youtube.com/watch?v=1L4GrPDR9TE) - great effect
     - [4](https://www.youtube.com/watch?v=EEXGR3g5FFA) - interesting way of positioning chalk paper
     - [5](https://www.youtube.com/watch?v=SyNOZ-EPTKQ) - interesting drill technique
-- [6](https://www.youtube.com/watch?v=qdos-b2LzrI)
+    - [6](https://www.youtube.com/watch?v=qdos-b2LzrI)
 - Preparing PCBs using chemotransfer (Youtube):
     - [1](https://www.youtube.com/watch?v=XGvP0mEEXu8) - Interesting method with acetone/alcohol transfer
     - [2](https://www.youtube.com/watch?v=cVhSCEPINpM&t=17s) - Interesting method with polish remover transfer
