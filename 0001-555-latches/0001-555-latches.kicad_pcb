@@ -10410,7 +10410,7 @@
 		(layer "Edge.Cuts")
 		(uuid "c03e9113-9481-4a7a-bcd2-959fcfa4be57")
 	)
-	(gr_text "${GH_REPO}\nREV:${VERSION}"
+	(gr_text "${GH_REPO}\nRev: ${VERSION}"
 		(at 175.57 131.14 0)
 		(layer "B.Cu")
 		(uuid "731fe28f-bbe8-494d-92b0-e93876b367c6")
@@ -10471,7 +10471,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "${GH_REPO}\nREV:${VERSION}"
+	(gr_text "${GH_REPO}\nRev: ${VERSION}"
 		(at 112.813608 69.44284 0)
 		(layer "F.SilkS")
 		(uuid "aa0fe072-740a-47c3-8727-69d40f6f8438")
