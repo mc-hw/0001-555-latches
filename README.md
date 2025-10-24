@@ -2,12 +2,12 @@
 
 ## Description
 
-The circuit contains of three latches: astable, monostable and bistable. Each of them is build around a separate 555
+The circuit contains of three latches: astable, monostable and bistable. Each of them is built around a separate 555
 integrated circuit with configurable parameters.
 
 <img src="images/schematic.png" alt="Schematics" style="width:600px;"/>
 
-The astable latch is built around integrated circuit U1. Potentiometers RV1 and RV2, together with resistors R1 and R2
+The astable latch is built around integrated circuit U1. Potentiometers RV1 and RV2, together with resistors R1, R2
 and capacitor C1 regulate the frequency and duty cycle of the `ASTBL_OUT` output signal according to
 [555 Timer Calculator](https://www.build-electronic-circuits.com/circuit-calculator-conversion/555-timer-calculator/).
 The frequency range is 1Hz-1kHz. The `ASTBL_OUT` signal is provided to screw connector J2. The state of `ASTBL_OUT`
@@ -23,7 +23,7 @@ C4 regulate the pulse duration of the `MSTBL_OUT` output signal according to
 The pulse is triggered by pushing SW3 button. The pulse duration range is 25ms-25s. The `MSTBL_OUT` signal is provided
 to screw connector J4. The state of `MSTBL_OUT` signal is visualised with D3 LED.
 
-The maximum output current of each output signal is ~15mA (input voltage/1000).
+The maximal output current of each output signal is ~15mA (input voltage/1000).
 
 ## Assembly
 
@@ -65,42 +65,24 @@ After providing the voltage all output signals should be available (observe LED 
 - [KiCad YouTube tutorial 1](https://youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB&si=8JaQM5K1sOJ2W4WG)
 - [KiCad YouTube tutorial 2](https://youtube.com/playlist?list=PLEBQazB0HUyQ5YJSdCBb79orXaR3Uk5vm&si=labIkKh_z3xuK7w0)
 - [KiCad YouTube tutorial 3](https://www.youtube.com/playlist?list=PLUOaI24LpvQPls1Ru_qECJrENwzD7XImd)
+- Preparing PCBs using thermotransfer (Youtube [PL]):
+    - [1](https://www.youtube.com/watch?v=IV76AiosMgo)
+    - [2](https://www.youtube.com/watch?v=NjvKmZZtHUM)
+    - [3](https://www.youtube.com/watch?v=1L4GrPDR9TE) - great effect
+    - [4](https://www.youtube.com/watch?v=EEXGR3g5FFA) - interesting way of positioning chalk paper
+    - [5](https://www.youtube.com/watch?v=SyNOZ-EPTKQ) - interesting drill technique
+    - [6](https://www.youtube.com/watch?v=qdos-b2LzrI)
+- Preparing PCBs using chemotransfer (Youtube):
+    - [1](https://www.youtube.com/watch?v=XGvP0mEEXu8) - Interesting method with acetone/alcohol transfer
+    - [2](https://www.youtube.com/watch?v=cVhSCEPINpM&t=17s) - Interesting method with polish remover transfer
 
-## PCB preparation
+## Implementation
 
-During this project different techniques of preparing printed circuit boards were compared and tested, including:
+### Breadboard testing
 
-- Cleaning the surface
-    - [TODO: list]
-- Paths printouts
-    - chalk paper [TODO: parameters]
-    - transparent film [TODO: patameters]
-- Transferring paths
-    - [TODO: list]
-- Etching
-    - [TODO: list]
-- Copper protection
-    - Solder mask Mechanik
-    - Solder mask [TODO: name]
-    - Tine
+Circuits were tested using breadboard before assembly. Each latch was tested separately.
 
-## PCB ordering
-
-Gerber files should be generated for each PCB manufacturer individually, every manufacturer have a different
-requirements for Gerber files.
-
-Considered manufacturers:
-- [Satland Prototype (pl)](https://www.prototypy.com/sites_pcbplugins/pcborder/58)
-- [Laskar (pl)](https://laskar.com.pl/)
-- [Margol (pl)](https://www.fabrykapcb.pl/index.html)
-- [EMS Electronix (pl)](https://www.ems-elektronix.com/zapytania-ofertowe/#formularz-ofertowy)
-- [ts (pl)](https://tspcb.pl/zamow-wycen/)
-- [PCB Way (ch)](https://www.pcbway.com/)
-- [multi-cb (de)](https://portal.multi-circuit-boards.eu/)
-
-## Photo-relation
-
-Circuits were tested before assembly. Testing astable latch:
+Testing site:
 
 <img src="images/photorelation/01_lab.jpg" alt="Testing lab" style="width:300px;"/>
 
@@ -143,3 +125,86 @@ Bistable latch testing:
 Monostable latch testing:
 
 <img src="images/photorelation/11_monostable_test.jpg" alt="Testing monostable latch" style="width:300px;"/>
+
+### PCB preparation
+
+One of the goals of this project was comparing and testing different techniques of preparing printed circuit boards,
+including:
+
+- Traces printouts
+    - Paper from magazine
+    - Chalk paper 115g/m2
+    - Transparent film
+    - Photo paper
+    - Paper dedicated for thermotransfer
+- Cleaning the surface
+    - Cleaning milk
+    - Sandpaper (1000)
+    - Isopropanol
+    - Nitro
+    - Acetone
+- Transferring traces
+    - Chemotransfer, using Moisturising polish remover (containing acetone)
+    - Chemotransfer, using Acetone/Isopropanol 30/70
+    - Thermotransfer, using iron, 2.5 dots/~200 degrees Celsius
+    - Thermotransfer, using laminator
+- Removing chalk paper
+    - In the water
+    - In the warm water with few drops of dish soap
+    - In the warm water with washing powder
+    - In the water with vinegar (30%)
+    - Damp sponge
+    - Toothbrush (probably at the end of one of the process above)
+- Fixing broken paths
+    - Permanent marker
+    - Corrector
+- Etching
+    - NaSO (B327) (laying PCB on the top of the surface)
+    - NaSO (B327) (sinking PCB and moving the container)
+    - NaSO (B327) (hanging PCB from the top into the etcher)
+    - NaSO (B327) (50 degrees Celsius)
+    - FeCl
+- Removing tonner
+    - Nitro
+    - Sandpaper (2000)
+    - Cleaning milk
+    - Acetone
+    - Damp sponge
+- Copper protection
+    - Solder mask Mechanik
+    - Solder mask [TODO: name]
+    - Tine
+    - Colophony dissolved in nitro
+    - Nothing
+- Solder mask removal from fields
+    - Film stencil placed on top during solder mask UV hardening
+    - Scraping
+- Drills
+    - Before etching
+    - After solder mask application
+    - After tinning
+- Silk screen (application/transfer methods the same as for traces)
+    - Under solder mask
+    - On top of solder mask
+- Protecting from oxidising
+    - Sinking in methylated spirits (denaturat)
+    - Colophony dissolved in nitro
+    - Nothing
+
+## PCB ordering
+
+Gerber files should be generated for each PCB manufacturer individually, every manufacturer have a different
+requirements for Gerber files. There is no general solution which could be generated upfront for each manufacturer.
+
+Only manufacturers, who allow initiating orders using Gerber/KiCAD files were selected.
+
+Considered manufacturers:
+
+- [Satland Prototype (pl)](https://www.prototypy.com/sites_pcbplugins/pcborder/58)
+- [Laskar (pl)](https://laskar.com.pl/): Minimal order - 20 dm2, PLN 365 net for single-sided board.
+- [Margol (pl)](https://www.fabrykapcb.pl/index.html)
+- [EMS Electronix (pl)](https://www.ems-elektronix.com/zapytania-ofertowe/#formularz-ofertowy)
+- [ts (pl)](https://tspcb.pl/zamow-wycen/)
+- [PCB Way (ch)](https://www.pcbway.com/)
+- [multi-cb (de)](https://portal.multi-circuit-boards.eu/)
+
