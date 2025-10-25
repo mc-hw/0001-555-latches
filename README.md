@@ -235,7 +235,7 @@ The printout was fine cut this time and stuck to the surface.
 
 <img src="images/photorelation/25_mk2_printout_stuck.jpg" alt="Mark 2 printout stuck" style="width:300px;"/>
 
-The paths were transfered using Moisturising polish remover again.
+The paths were transferred using Moisturising polish remover again.
 
 <img src="images/photorelation/26_mk2_transfer.jpg" alt="Mark 2 transfer" style="width:300px;"/>
 
@@ -311,11 +311,12 @@ The solder mask was applied using plastic card.
 <img src="images/photorelation/54_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 <img src="images/photorelation/55_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
-The F.Mask layer with 'No drill mark' option was used as a stencil.
+The F.Mask layer with 'No drill mark' option was used as a stencil. **For the future: Place printed side of the stencil 
+up. 2 hours could be too long (mask was hard even under the stencil).**
 
 <img src="images/photorelation/56_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
-The solder mask was hardened using UV diode light (~1.5h).
+The solder mask was hardened using UV diode light (~2h).
 
 <img src="images/photorelation/57_mk2_soldermask_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
 
