@@ -312,7 +312,7 @@ The solder mask was applied using plastic card.
 <img src="images/photorelation/55_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
 The F.Mask layer with 'No drill mark' option was used as a stencil. **For the future: Place printed side of the stencil 
-up. 2 hours could be too long (mask was hard even under the stencil).**
+up. 2 hours could be too long (mask was hard even under the stencil). Use matt film.**
 
 <img src="images/photorelation/56_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
