@@ -221,11 +221,103 @@ The traces were removed using nitro:
 
 ### Mark 2
 
-<img src="images/photorelation/22" alt="" style="width:300px;"/>
-<img src="images/photorelation/24" alt="" style="width:300px;"/>
-<img src="images/photorelation/25" alt="" style="width:300px;"/>
+The traces were printed on the glossy side of thermotransfer paper. Unfortunately, the result was bad. Another try was 
+printing on the magazine page, this time more glossy.
+**For the future, in KiCad print dialog, try 'Drill Marks: Small mark'.**
 
-<img src="images/photorelation/57" alt="" style="width:300px;"/>
+<img src="images/photorelation/22_mk2_thermal_paper.jpg" alt="Mark 2 thermal paper" style="width:300px;"/>
+
+The surface was again cleaned with Acetone.
+
+<img src="images/photorelation/24_mk2_aceton_prep.jpg" alt="Mark 2 Acetone preparation" style="width:300px;"/>
+
+The printout was fine cut this time and stuck to the surface.
+
+<img src="images/photorelation/25_mk2_printout_stuck.jpg" alt="Mark 2 printout stuck" style="width:300px;"/>
+
+The paths were transfered using Moisturising polish remover again.
+
+<img src="images/photorelation/26_mk2_transfer.jpg" alt="Mark 2 transfer" style="width:300px;"/>
+
+The paper did not come out easily, so it was put into warm water with dish soap.
+
+<img src="images/photorelation/27_mk2_paper_removal.jpg" alt="Mark 2 paper removal" style="width:300px;"/>
+<img src="images/photorelation/28_mk2_paper_removal.jpg" alt="Mark 2 paper removal" style="width:300px;"/>
+
+The traces required corrections, which were done using corrector and permanent marker.
+
+<img src="images/photorelation/29_mk2_traces_corrections.jpg" alt="Mark 2 traces corrections" style="width:300px;"/>
+<img src="images/photorelation/30_mk2_traces_corrections.jpg" alt="Mark 2 traces corrections" style="width:300px;"/>
+<img src="images/photorelation/31_mk2_traces_corrections.jpg" alt="Mark 2 traces corrections" style="width:300px;"/>
+<img src="images/photorelation/32_mk2_traces_corrections.jpg" alt="Mark 2 traces corrections" style="width:300px;"/>
+<img src="images/photorelation/33_mk2_traces_corrections.jpg" alt="Mark 2 traces corrections" style="width:300px;"/>
+<img src="images/photorelation/34_mk2_ready_for_eatching.jpg" alt="Mark 2 ready for etching" style="width:300px;"/>
+
+The etcher was prepared according to instructions.
+
+<img src="images/photorelation/35_mk2_etcher_prep.jpg" alt="Mark 2 etcher preparation" style="width:300px;"/>
+
+PCB was etched in 50 degrees Celsius.
+
+<img src="images/photorelation/36_mk2_etching.jpg" alt="Mark 2 etching" style="width:300px;"/>
+
+Toner was removed with Nitro.
+
+<img src="images/photorelation/37_mk2_toner_removal.jpg" alt="Mark 2 toner removal" style="width:300px;"/>
+<img src="images/photorelation/38_mk2_etched.jpg" alt="Mark 2 etched" style="width:300px;"/>
+
+The drilling of mounting points was performed using hand drill. **For the future: table drill is a must.**
+
+<img src="images/photorelation/39_mk2_drilling.jpg" alt="Mark 2 drilling" style="width:300px;"/>
+<img src="images/photorelation/40_mk2_drilling.jpg" alt="Mark 2 drilling" style="width:300px;"/>
+
+The front side of PCB was skimmed with Isopropanol.
+
+<img src="images/photorelation/41_mk2_front_preparation.jpg" alt="Mark 2 front preparation" style="width:300px;"/>
+
+The silk screen was printed on the glossy leaflet and aligned to the mounting point holes.
+
+<img src="images/photorelation/42_mk2_leaflet_printout.jpg" alt="Mark 2 leaflet printout" style="width:300px;"/>
+<img src="images/photorelation/43_mk2_leaflet_alignment.jpg" alt="Mark 2 leaflet alignment" style="width:300px;"/>
+
+The silk screen was transferred using Acetone/Isopropanol solution (50/50).
+
+<img src="images/photorelation/44_mk2_leaflet_transfer.jpg" alt="Mark 2 leaflet transfer" style="width:300px;"/>
+
+The result was miserable, so the layer was removed with Acetone.
+
+<img src="images/photorelation/45_mk2_leaflet_removal.jpg" alt="Mark 2 leaflet removal" style="width:300px;"/>
+
+Another try was printing on the magazine page (the same as for back side, Mk2). The following layers were printed: 
+F.Silkscreen, User.Comments (for mounting points visibility), Edge.Cuts, F.Courtyard). 
+
+<img src="images/photorelation/46_mk2_magazine_printout.jpg" alt="Mark 2 magazine printout" style="width:300px;"/>
+
+The silkscreen was transferred using Moisturising polish remover. The result was OK, but not perfect.
+
+<img src="images/photorelation/47_mk2_magazine_transfer.jpg" alt="Mark 2 magazine transfer" style="width:300px;"/>
+<img src="images/photorelation/48_mk2_magazine_removal.jpg" alt="Mark 2 magazine removal" style="width:300px;"/>
+<img src="images/photorelation/49_mk2_magazine_removal.jpg" alt="Mark 2 magazine remobal" style="width:300px;"/>
+<img src="images/photorelation/50_mk2_front_ready.jpg" alt="Mark 2 front ready" style="width:300px;"/>
+
+The PCB was skimmed using Isopropanol and dried with hot air before solder mask application.
+
+<img src="images/photorelation/51_mk2_degreasing.jpg" alt="Mark 2 degreasing" style="width:300px;"/>
+<img src="images/photorelation/52_mk2_drying.jpg" alt="Mark 2 drying" style="width:300px;"/>
+
+The solder mask was applied using plastic card.
+
+<img src="images/photorelation/53_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
+<img src="images/photorelation/54_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
+<img src="images/photorelation/55_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
+
+The F.Mask layer with 'No drill mark' option was used as a stencil.
+
+<img src="images/photorelation/56_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
+
+The solder mask was hardened using UV diode light (~1.5h).
+
+<img src="images/photorelation/57_mk2_soldermask_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
 
 ## PCB ordering
 
