@@ -191,6 +191,35 @@ including:
     - Colophony dissolved in nitro
     - Nothing
 
+#### Mark 1
+
+The printout for the first instance of PCB was printed on the page from magazine.
+
+<img src="images/photorelation/12_mk1_printout.jpg" alt="Mark 1 printout" style="width:300px;"/>
+
+The surface was prepared for transfer using cleaning milk, sand paper (1000, wet) and isopropanol.
+
+<img src="images/photorelation/13_mk1_clean_preparation.jpg" alt="Mark 1 cleaning" style="width:300px;"/>
+
+Next the printout was stuck to the copper using paper tape and doused with Moisturising polish remover.
+
+<img src="images/photorelation/14_mk1_transfer_preparation.jpg" alt="Mark 1 transfer preparation" style="width:300px;"/>
+<img src="images/photorelation/15_mk1_transfer_preparation.jpg" alt="Mark 1 transfer preparation" style="width:300px;"/>
+<img src="images/photorelation/16_mk1_transfer.jpg" alt="Mark 1 transfer" style="width:300px;"/>
+
+The remaining of paper was removed in warm water with dish soup
+
+<img src="images/photorelation/17_mk1_paper_removal.jpg" alt="Mark 1 paper removal" style="width:300px;"/>
+<img src="images/photorelation/18_mk1_paper_removed.jpg" alt="Mark 1 paper removed" style="width:300px;"/>
+
+The result was far from perfect, so the decision was to start again. 
+The traces were removed using nitro:
+
+<img src="images/photorelation/19_mk1_wipe_preparation.jpg" alt="Mark 1 wipe preparation" style="width:300px;"/>
+<img src="images/photorelation/20_mk1_wipe.jpg" alt="Mark 1 wipe" style="width:300px;"/>
+<img src="images/photorelation/21_mk1_wpied.jpg" alt="Mark 1 wiped" style="width:300px;"/>
+
+
 ## PCB ordering
 
 Gerber files should be generated for each PCB manufacturer individually, every manufacturer have a different
