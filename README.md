@@ -172,7 +172,7 @@ including:
     - Damp sponge
 - Copper protection
     - Solder mask Mechanik
-    - Solder mask [TODO: name]
+    - Solder mask Relief
     - Tine
     - Colophony dissolved in nitro
     - Nothing
@@ -219,6 +219,13 @@ The traces were removed using nitro:
 <img src="images/photorelation/20_mk1_wipe.jpg" alt="Mark 1 wipe" style="width:300px;"/>
 <img src="images/photorelation/21_mk1_wpied.jpg" alt="Mark 1 wiped" style="width:300px;"/>
 
+### Mark 2
+
+<img src="images/photorelation/22" alt="" style="width:300px;"/>
+<img src="images/photorelation/24" alt="" style="width:300px;"/>
+<img src="images/photorelation/25" alt="" style="width:300px;"/>
+
+<img src="images/photorelation/57" alt="" style="width:300px;"/>
 
 ## PCB ordering
 
