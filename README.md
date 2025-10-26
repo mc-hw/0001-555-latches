@@ -343,6 +343,26 @@ The remaining, not hardened solder mask was removed using Acetone. Silkscreen wa
 
 <img src="images/photorelation/61_mk2_mask_cleanup.jpg" alt="Mark 2 solder mask cleanup" style="width:300px;"/>
 
+Sandpaper (1000) was used to remove covered fields. Unfortunately, it also removed large part of solder mask itself.
+
+<img src="images/photorelation/62_mk2_soldermask_sandpaper.jpg" alt="Mark 2 solder mask sandpaper" style="width:300px;"/>
+<img src="images/photorelation/63_mk2_soldermask_sandpaper.jpg" alt="Mark 2 solder mask sandpaper" style="width:300px;"/>
+<img src="images/photorelation/64_mk2_soldermask_sandpaper.jpg" alt="Mark 2 solder mask sandpaper result" style="width:300px;"/>
+
+The front side was covered with solder mask again. This time with brush but the bubbles were removed through the film
+using plastic card.
+
+<img src="images/photorelation/65_mk2_soldermask_bubbles.jpg" alt="Mark 2 solder mask bubbles removal" style="width:300px;"/>
+
+Solder mask was hardened for ~1 hour. 
+
+<img src="images/photorelation/66_mk2_soldermask_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
+
+After first hardening solder mask was cleaned up and left for hardening again.
+<img src="images/photorelation/67_mk2_soldermask_cleanup.jpg" alt="Mark 2 solder mask cleanup" style="width:300px;"/>
+<img src="images/photorelation/68_mk2_soldermask_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
+
+
 ## PCB ordering
 
 Gerber files should be generated for each PCB manufacturer individually, every manufacturer have a different
