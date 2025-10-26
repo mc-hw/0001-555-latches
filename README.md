@@ -261,7 +261,8 @@ PCB was etched in 50 degrees Celsius.
 
 <img src="images/photorelation/36_mk2_etching.jpg" alt="Mark 2 etching" style="width:300px;"/>
 
-Toner was removed with Nitro.
+Toner was removed with Nitro. (**For the future: Use capital letters on custom text. Apply text also in the mask
+layer**).
 
 <img src="images/photorelation/37_mk2_toner_removal.jpg" alt="Mark 2 toner removal" style="width:300px;"/>
 <img src="images/photorelation/38_mk2_etched.jpg" alt="Mark 2 etched" style="width:300px;"/>
@@ -294,6 +295,7 @@ F.Silkscreen, User.Comments (for mounting points visibility), Edge.Cuts, F.Court
 <img src="images/photorelation/46_mk2_magazine_printout.jpg" alt="Mark 2 magazine printout" style="width:300px;"/>
 
 The silkscreen was transferred using Moisturising polish remover. The result was OK, but not perfect.
+**For the future: Use capital letters for custom text**.
 
 <img src="images/photorelation/47_mk2_magazine_transfer.jpg" alt="Mark 2 magazine transfer" style="width:300px;"/>
 <img src="images/photorelation/48_mk2_magazine_removal.jpg" alt="Mark 2 magazine removal" style="width:300px;"/>
@@ -319,6 +321,22 @@ up. 2 hours could be too long (mask was hard even under the stencil). Use matt f
 The solder mask was hardened using UV diode light (~2h).
 
 <img src="images/photorelation/57_mk2_soldermask_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
+
+The solder mask was removed from fields using Acetone (best so far). However, mask didn't get of fields where it was 
+thickest. Fields were also covered with toner (**For the future: Place printed side of the stencil up.**) and was only
+partially removed. It was unfortunately not equally thick (**For the future: try pressing with glass**).
+
+<img src="images/photorelation/58_mk2_mask_fields_removal.jpg" alt="Mark 2 solder mask from fields removal" style="width:300px;"/>
+
+On the front side solder mask was applied using brush. The effect was much better than using plastic card. 
+Although, the layer was too thick. It was also not equally thick.
+
+<img src="images/photorelation/59_mk2_front_mask_application.jpg" alt="Mark 2 front solder mask application" style="width:300px;"/>
+<img src="images/photorelation/60_mk2_front_mask_application.jpg" alt="Mark 2 front solder mask application" style="width:300px;"/>
+
+The remaining, not hardened solder mask was removed using Acetone. Silkscreen was surprisingly well visible.
+
+<img src="images/photorelation/61_mk2_mask_cleanup.jpg" alt="Mark 2 solder mask cleanup" style="width:300px;"/>
 
 ## PCB ordering
 
