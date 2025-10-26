@@ -212,7 +212,7 @@ The remaining of paper was removed in warm water with dish soup
 <img src="images/photorelation/17_mk1_paper_removal.jpg" alt="Mark 1 paper removal" style="width:300px;"/>
 <img src="images/photorelation/18_mk1_paper_removed.jpg" alt="Mark 1 paper removed" style="width:300px;"/>
 
-The result was far from perfect, so the decision was to start again. 
+The result was far from perfect, so the decision was to start again.
 The traces were removed using nitro:
 
 <img src="images/photorelation/19_mk1_wipe_preparation.jpg" alt="Mark 1 wipe preparation" style="width:300px;"/>
@@ -221,7 +221,7 @@ The traces were removed using nitro:
 
 ### Mark 2
 
-The traces were printed on the glossy side of thermotransfer paper. Unfortunately, the result was bad. Another try was 
+The traces were printed on the glossy side of thermotransfer paper. Unfortunately, the result was bad. Another try was
 printing on the magazine page, this time more glossy.
 **For the future, in KiCad print dialog, try 'Drill Marks: Small mark'.**
 
@@ -289,8 +289,8 @@ The result was miserable, so the layer was removed with Acetone.
 
 <img src="images/photorelation/45_mk2_leaflet_removal.jpg" alt="Mark 2 leaflet removal" style="width:300px;"/>
 
-Another try was printing on the magazine page (the same as for back side, Mk2). The following layers were printed: 
-F.Silkscreen, User.Comments (for mounting points visibility), Edge.Cuts, F.Courtyard). 
+Another try was printing on the magazine page (the same as for back side, Mk2). The following layers were printed:
+F.Silkscreen, User.Comments (for mounting points visibility), Edge.Cuts, F.Courtyard.
 
 <img src="images/photorelation/46_mk2_magazine_printout.jpg" alt="Mark 2 magazine printout" style="width:300px;"/>
 
@@ -299,6 +299,9 @@ The silkscreen was transferred using Moisturising polish remover. The result was
 
 <img src="images/photorelation/47_mk2_magazine_transfer.jpg" alt="Mark 2 magazine transfer" style="width:300px;"/>
 <img src="images/photorelation/48_mk2_magazine_removal.jpg" alt="Mark 2 magazine removal" style="width:300px;"/>
+
+The paper was removed with vinegar/water solution (30/70).
+
 <img src="images/photorelation/49_mk2_magazine_removal.jpg" alt="Mark 2 magazine remobal" style="width:300px;"/>
 <img src="images/photorelation/50_mk2_front_ready.jpg" alt="Mark 2 front ready" style="width:300px;"/>
 
@@ -313,22 +316,24 @@ The solder mask was applied using plastic card.
 <img src="images/photorelation/54_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 <img src="images/photorelation/55_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
-The F.Mask layer with 'No drill mark' option was used as a stencil. **For the future: Place printed side of the stencil 
+The F.Mask layer with 'No drill mark' option was used as a stencil. **For the future: Place printed side of the stencil
 up. 2 hours could be too long (mask was hard even under the stencil). Use matt film.**
 
 <img src="images/photorelation/56_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
-The solder mask was hardened using UV diode light (~2h).
+The solder mask was hardened using UV diode light (~2h), pressed with a glass dish, but the effect was far from 
+expected, the dish is not perfectly flat (**For the future: try pressing with glass**).
 
 <img src="images/photorelation/57_mk2_soldermask_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
 
-The solder mask was removed from fields using Acetone (best so far). However, mask didn't get of fields where it was 
-thickest. Fields were also covered with toner (**For the future: Place printed side of the stencil up.**) and was only
-partially removed. It was unfortunately not equally thick (**For the future: try pressing with glass**).
+The solder mask was removed from fields using Acetone (best so far, Isopropanol also is promising). However, mask didn't
+get of fields where it was thickest. Fields were also covered with toner (**For the future: Place printed side of the
+stencil up.**) and was only partially removed. It was unfortunately not equally thick (**For the future: try pressing
+with glass**).
 
 <img src="images/photorelation/58_mk2_mask_fields_removal.jpg" alt="Mark 2 solder mask from fields removal" style="width:300px;"/>
 
-On the front side solder mask was applied using brush. The effect was much better than using plastic card. 
+On the front side solder mask was applied using brush. The effect was much better than using plastic card.
 Although, the layer was too thick. It was also not equally thick.
 
 <img src="images/photorelation/59_mk2_front_mask_application.jpg" alt="Mark 2 front solder mask application" style="width:300px;"/>
