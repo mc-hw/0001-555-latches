@@ -310,7 +310,7 @@ The PCB was skimmed using Isopropanol and dried with hot air before solder mask 
 <img src="images/photorelation/51_mk2_degreasing.jpg" alt="Mark 2 degreasing" style="width:300px;"/>
 <img src="images/photorelation/52_mk2_drying.jpg" alt="Mark 2 drying" style="width:300px;"/>
 
-The solder mask was applied using plastic card.
+The blue _Relief_ solder mask was applied using plastic card.
 
 <img src="images/photorelation/53_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 <img src="images/photorelation/54_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
