@@ -406,7 +406,7 @@ Half of fields were punched before drilling. **For the future: avoid punching, t
 
 Drilling was performed using table drill.
 
-<img src="images/photorelation/83_mk2_drill.jpg" alt="Mark 2 drill style="width:300px;"/>
+<img src="images/photorelation/83_mk2_drill.jpg" alt="Mark 2 drill" style="width:300px;"/>
 <img src="images/photorelation/84_mk2_drill.jpg" alt="Mark 2 drill" style="width:300px;"/>
 
 After cutting edges, the final effect was as below. **For the future: try cutting on the initial phase of PCB 
