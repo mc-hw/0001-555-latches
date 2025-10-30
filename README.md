@@ -75,6 +75,8 @@ After providing the voltage all output signals should be available (observe LED 
 - Preparing PCBs using chemotransfer (Youtube):
     - [1](https://www.youtube.com/watch?v=XGvP0mEEXu8) - Interesting method with acetone/alcohol transfer
     - [2](https://www.youtube.com/watch?v=cVhSCEPINpM&t=17s) - Interesting method with polish remover transfer
+    - [3](https://www.youtube.com/watch?v=wvU2yyfH-XE) - Applying solder mask
+    - [4](https://www.youtube.com/watch?v=IfhOYhjXLDg) - Applying solder mask
 
 ## Implementation
 
@@ -317,7 +319,7 @@ The blue _Relief_ solder mask was applied using plastic card.
 <img src="images/photorelation/55_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
 The F.Mask layer with 'No drill mark' option was used as a stencil. **For the future: Place printed side of the stencil
-up. 2 hours could be too long (mask was hard even under the stencil). Use matt film.**
+up, multiple layers. 2 hours could be too long (mask was hard even under the stencil). Use matt film.**
 
 <img src="images/photorelation/56_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
@@ -362,7 +364,57 @@ After first hardening solder mask was cleaned up and left for hardening again.
 
 <img src="images/photorelation/67_mk2_soldermask_cleanup.jpg" alt="Mark 2 solder mask cleanup" style="width:300px;"/>
 <img src="images/photorelation/68_mk2_soldermask_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
+<img src="images/photorelation/69_mk2_soldermask_front.jpg" alt="Mark 2 solder mask front" style="width:300px;"/>
 
+Another solder mask application was done after pressing double stencil printed up with acryl plexi. The surface was
+cleaned up first with Isopropanol.
+
+<img src="images/photorelation/70_mk2_cleaning.jpg" alt="Mark 2 cleaning" style="width:300px;"/>
+<img src="images/photorelation/71_mk2_uv.jpg" alt="Mark 2 back UV" style="width:300px;"/>
+
+The mask was cleaned up with Acetone. **For the future: try shorter hardening. The mask was hard to remove.**
+
+<img src="images/photorelation/72_mk2_soldermask_cleanup.jpg" alt="Mark 2 solder mask cleanup" style="width:300px;"/>
+
+After removing the mask, the surface was hardened again.
+
+<img src="images/photorelation/73_mk2_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
+
+The front side was de-glossed using sandpaper (grade 3000). The effect was OK, but using mat film is better.
+
+<img src="images/photorelation/74_mk2_degloss.jpg" alt="Mark 2 degloss" style="width:300px;"/>
+
+The silkscreen was transferred using chalk paper and iron.
+
+<img src="images/photorelation/75_mk2_cleaning.jpg" alt="Mark 2 cleaning" style="width:300px;"/>
+<img src="images/photorelation/76_mk2_silkscreen_transfer.jpg" alt="Mark 2 silkscreen transfer" style="width:300px;"/>
+<img src="images/photorelation/77_mk2_silkscreen_transfer.jpg" alt="Mark 2 silkscreen transfer" style="width:300px;"/>
+
+The effect exceeded expectations.
+
+<img src="images/photorelation/78_mk2_effect.jpg" alt="Mark 2 back effect" style="width:300px;"/>
+<img src="images/photorelation/79_mk2_effect.jpg" alt="Mark 2 front effect" style="width:300px;"/>
+
+Half of fields were tinned before drilling. Seems like a good idea to tin first.
+
+<img src="images/photorelation/80_mk2_tinning.jpg" alt="Mark 2 tinning" style="width:300px;"/>
+<img src="images/photorelation/81_mk2_tinned.jpg" alt=""Mark 2 tinned style="width:300px;"/>
+
+Half of fields were punched before drilling. **For the future: avoid punching, try only on biggest fields.**
+
+<img src="images/photorelation/82_mk2_punching.jpg" alt="Mark 2 punching" style="width:300px;"/>
+
+Drilling was performed using table drill.
+
+<img src="images/photorelation/83_mk2_drill.jpg" alt=""Mark 2 drill style="width:300px;"/>
+<img src="images/photorelation/84_mk2_drill.jpg" alt="Mark 2 drill" style="width:300px;"/>
+
+After cutting edges, the final effect was as below. **For the future: try cutting on the initial phase of PCB 
+production.**
+
+<img src="images/photorelation/85_mk2_cutting.jpg" alt="Mark 2 cutting" style="width:300px;"/>
+<img src="images/photorelation/86_mk2_final.jpg" alt="Mark 2 final back" style="width:300px;"/>
+<img src="images/photorelation/87_mk2_final.jpg" alt="Mark 2 final front" style="width:300px;"/>
 
 ## PCB ordering
 
