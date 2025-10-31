@@ -409,7 +409,7 @@ Drilling was performed using table drill.
 <img src="images/photorelation/83_mk2_drill.jpg" alt="Mark 2 drill" style="width:300px;"/>
 <img src="images/photorelation/84_mk2_drill.jpg" alt="Mark 2 drill" style="width:300px;"/>
 
-After cutting edges, the final effect was as below. **For the future: try cutting on the initial phase of PCB 
+After cutting edges, the final effect was as below. **For the future: try cutting on the initial phase of PCB
 production.**
 
 <img src="images/photorelation/85_mk2_cutting.jpg" alt="Mark 2 cutting" style="width:300px;"/>
@@ -423,27 +423,49 @@ production.**
 - The copper layer was printed on a big piece of glossy page from magazine, 'Small drill mark' option selected.
 - The paths were transferred using Moisturising polish remover with paper wrapped around copper as envelope (seems worse
   than fine-cut piece).
+- The paths were corrected with marker, corrector and scalpel.
+- The holes for mounting points were drilled after etching, before toner removal.
+- After etching toner was removed using Acetone.
+- The PCB was cleaned with Isopropanol and dried with hot air (270 degrees Celsius).
+- The front side of PCB was covered with tape before solder mask application.
+- _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film. On top of it
+  another stencil, printed down on glossy film was placed. It was pressed between two acryl panes and left for 10
+  minutes to spread evenly.
+- The first UV hardening took 30 minutes, half by half, from 10cm.
+- The fields were removed with Isopropanol. Unfortunately, the result was poor. Longer hardening needed?
 
 ### Mark 4
 
-- For Mark 4 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with file.
+- For Mark 4 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with a file.
 - The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
 - The copper layer was printed on a big piece of glossy page from magazine, 'Small drill mark' option selected.
 - The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
+- The PCB was fine-cut, the edges were smoothed with a file.
+- The paths were corrected with marker and scalpel.
+- The holes for mounting points were drilled after etching.
+- After etching toner was removed using Acetone.
 
 ### Mark 5
 
-- For Mark 5 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with file.
+- For Mark 5 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with a file.
 - The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
 - The copper layer was printed on a big piece of glossy page from magazine, 'No drill mark' option selected.
 - The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
+- The PCB was fine-cut, the edges were smoothed with a file.
+- The paths were corrected with marker and scalpel.
+- The holes for mounting points were drilled before etching. Seems to be a good idea, holes were smoother after etching.
+- After etching toner was removed using Acetone.
 
 ### Mark 6
 
-- For Mark 6 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with file.
+- For Mark 6 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with a file.
 - The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
 - The copper layer was printed on a big piece of glossy page from magazine, 'No drill mark' option selected.
 - The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
+- The PCB was fine-cut, the edges were smoothed with a file.
+- The paths were corrected with marker and scalpel.
+- The holes for mounting points were drilled before etching. Seems to be a good idea, holes were smoother after etching.
+- After etching toner was removed using Acetone.
 
 ## PCB ordering
 
