@@ -323,7 +323,7 @@ up, multiple layers. 2 hours could be too long (mask was hard even under the ste
 
 <img src="images/photorelation/56_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
-The solder mask was hardened using UV diode light (~2h), pressed with a glass dish, but the effect was far from 
+The solder mask was hardened using UV diode light (~2h), pressed with a glass dish, but the effect was far from
 expected, the dish is not perfectly flat (**For the future: try pressing with glass**).
 
 <img src="images/photorelation/57_mk2_soldermask_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
@@ -415,6 +415,35 @@ production.**
 <img src="images/photorelation/85_mk2_cutting.jpg" alt="Mark 2 cutting" style="width:300px;"/>
 <img src="images/photorelation/86_mk2_final.jpg" alt="Mark 2 final back" style="width:300px;"/>
 <img src="images/photorelation/87_mk2_final.jpg" alt="Mark 2 final front" style="width:300px;"/>
+
+### Mark 3
+
+- For Mark 3 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with file.
+- The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
+- The copper layer was printed on a big piece of glossy page from magazine, 'Small drill mark' option selected.
+- The paths were transferred using Moisturising polish remover with paper wrapped around copper as envelope (seems worse
+  than fine-cut piece).
+
+### Mark 4
+
+- For Mark 4 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with file.
+- The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
+- The copper layer was printed on a big piece of glossy page from magazine, 'Small drill mark' option selected.
+- The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
+
+### Mark 5
+
+- For Mark 5 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with file.
+- The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
+- The copper layer was printed on a big piece of glossy page from magazine, 'No drill mark' option selected.
+- The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
+
+### Mark 6
+
+- For Mark 6 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with file.
+- The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
+- The copper layer was printed on a big piece of glossy page from magazine, 'No drill mark' option selected.
+- The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
 
 ## PCB ordering
 
