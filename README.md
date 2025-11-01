@@ -427,12 +427,14 @@ production.**
 - The holes for mounting points were drilled after etching, before toner removal.
 - After etching toner was removed using Acetone.
 - The PCB was cleaned with Isopropanol and dried with hot air (270 degrees Celsius).
-- The front side of PCB was covered with tape before solder mask application.
+- The front side of PCB was covered with tape before solder mask application. Seems like a bad idea: solder mask gets
+  under tape anyway and cleaning is a mess.
 - _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film. On top of it
   another stencil, printed down on glossy film was placed. It was pressed between two acryl panes and left for 10
   minutes to spread evenly.
 - The first UV hardening took 30 minutes, half by half, from 10cm.
-- The fields were removed with Isopropanol. Unfortunately, the result was poor. Longer hardening needed?
+- The fields were removed with Isopropanol. Unfortunately, the result was poor. Longer hardening needed? Also the layer
+  was too thick.
 
 ### Mark 4
 
@@ -440,10 +442,17 @@ production.**
 - The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
 - The copper layer was printed on a big piece of glossy page from magazine, 'Small drill mark' option selected.
 - The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
-- The PCB was fine-cut, the edges were smoothed with a file.
+- The PCB was fine-cut, the edges were smoothed with a file and sandpaper (grade 150). The file was a bad idea.
 - The paths were corrected with marker and scalpel.
 - The holes for mounting points were drilled after etching.
 - After etching toner was removed using Acetone.
+- The entire PCB (both sides, edges) was smoothed with sandpaper (grade 1000) and cleaned with Nitro (outperforms even
+  Acetone).
+- _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film. On top of it
+  another stencil, printed down on glossy film was placed. It was pressed between two acryl panes.
+- The first UV hardening took 45 minutes, equally covered by light, from 20cm.
+- The fields were removed with Isopropanol. They were also corrected by Acetone, but it seems to be to aggressive.
+  Unfortunately, the result was poor. Also the layer was too thick.
 
 ### Mark 5
 
@@ -451,10 +460,11 @@ production.**
 - The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
 - The copper layer was printed on a big piece of glossy page from magazine, 'No drill mark' option selected.
 - The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
-- The PCB was fine-cut, the edges were smoothed with a file.
+- The PCB was fine-cut, the edges were smoothed with a file and sandpaper (grade 150). The file was a bad idea.
 - The paths were corrected with marker and scalpel.
 - The holes for mounting points were drilled before etching. Seems to be a good idea, holes were smoother after etching.
 - After etching toner was removed using Acetone.
+- The entire PCB (both sides, edges) was smoothed with sandpaper (grade 1000) and cleaned with Acetone.
 
 ### Mark 6
 
@@ -462,10 +472,12 @@ production.**
 - The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
 - The copper layer was printed on a big piece of glossy page from magazine, 'No drill mark' option selected.
 - The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
-- The PCB was fine-cut, the edges were smoothed with a file.
+- The PCB was fine-cut, the edges were smoothed with a file and sandpaper (grade 150). The file was a bad idea.
 - The paths were corrected with marker and scalpel.
 - The holes for mounting points were drilled before etching. Seems to be a good idea, holes were smoother after etching.
 - After etching toner was removed using Acetone.
+- The entire PCB (both sides, edges) was smoothed with sandpaper (grade 1000) and cleaned with Nitro (outperforms even
+  Acetone).
 
 ## PCB ordering
 
