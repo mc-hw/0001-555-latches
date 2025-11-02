@@ -427,8 +427,7 @@ production.**
 - The holes for mounting points were drilled after etching, before toner removal.
 - After etching toner was removed using Acetone.
 - The PCB was cleaned with Isopropanol and dried with hot air (270 degrees Celsius).
-- The front side of PCB was covered with tape before solder mask application. Seems like a bad idea: solder mask gets
-  under tape anyway and cleaning is a mess.
+- The front side of PCB was covered with tape before solder mask application.
 - _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film. On top of it
   another stencil, printed down on glossy film was placed. It was pressed between two acryl panes and left for 10
   minutes to spread evenly.
@@ -451,8 +450,8 @@ production.**
 - _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film. On top of it
   another stencil, printed down on glossy film was placed. It was pressed between two acryl panes.
 - The first UV hardening took 45 minutes, equally covered by light, from 20cm.
-- The fields were removed with Isopropanol. They were also corrected by Acetone, but it seems to be to aggressive.
-  Unfortunately, the result was poor. Also the layer was too thick.
+- The fields were removed with Isopropanol. They were also corrected by Acetone, but it seems to be too aggressive.
+  Unfortunately, the result was poor. Also, the layer was too thick.
 
 ### Mark 5
 
@@ -465,6 +464,17 @@ production.**
 - The holes for mounting points were drilled before etching. Seems to be a good idea, holes were smoother after etching.
 - After etching toner was removed using Acetone.
 - The entire PCB (both sides, edges) was smoothed with sandpaper (grade 1000) and cleaned with Acetone.
+- Both sides were painted with a colophony dissolved in Nitro (seems like a bad idea, stencil got stuck).
+- _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film (printed twice). On
+  top of it another stencil, printed down on glossy film was placed. It was pressed between two acryl panes.
+- The first UV hardening took 90 minutes (each corner first, 15 minutes, central later, 30 minutes).
+- The fields were removed with Isopropanol.
+- The front side was cleaned with Isopropanol before solder mask application. The back side was covered with tape.
+- _Mechanic_ solder mask was applied to the front side using a plastic card through a matt film. It was pressed between
+  two acryl panes, but the top glass was removed before hardening.
+- The UV hardening took 1 hour (each corner first, 10 minutes, central later, 20 minutes).
+- The film was removed millimeter by millimeter, starting with corners, holding with a plastic card.
+- The result was OK, but it was better when the hardening time was longer.
 
 ### Mark 6
 
@@ -478,6 +488,19 @@ production.**
 - After etching toner was removed using Acetone.
 - The entire PCB (both sides, edges) was smoothed with sandpaper (grade 1000) and cleaned with Nitro (outperforms even
   Acetone).
+- The front side of PCB was covered with tape before solder mask application.
+- _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film (printed twice). It
+  was pressed between two acryl panes, but the top glass was removed before hardening.
+- The UV hardening took 1 hour 15 minutes (each corner first, 15 minutes, central later, 15 minutes).
+- The stencil was removed millimeter by millimeter, starting with corners, holding with a plastic card. The fields were
+  removed with Isopropanol. The result was pretty OK. The fields were smaller than expected, try shortening the
+  hardening time.
+- The front side was cleaned with Isopropanol before solder mask application. The back side was covered with tape.
+- _Mechanic_ solder mask was applied to the front side using a plastic card through a matt film. It was pressed between
+  two acryl panes, but the top glass was removed before hardening.
+- The UV hardening took 1.5 hour (each corner first, 20 minutes, central later, 30 minutes).
+- The stencil was removed millimeter by millimeter, starting with corners, holding with a plastic card. The fields were
+  removed with Isopropanol.
 
 ## PCB ordering
 
