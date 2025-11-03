@@ -500,7 +500,7 @@ production.**
   two acryl panes, but the top glass was removed before hardening.
 - The UV hardening took 1.5 hour (each corner first, 20 minutes, central later, 30 minutes).
 - The stencil was removed millimeter by millimeter, starting with corners, holding with a plastic card. The fields were
-  removed with Isopropanol.
+  removed with Isopropanol. The result was pretty good. Could consider shorter hardening.
 
 ## PCB ordering
 
