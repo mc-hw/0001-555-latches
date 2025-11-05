@@ -130,69 +130,6 @@ Monostable latch testing:
 
 ### PCB preparation
 
-One of the goals of this project was comparing and testing different techniques of preparing printed circuit boards,
-including:
-
-- Traces printouts
-    - Paper from magazine
-    - Chalk paper 115g/m2
-    - Transparent film
-    - Photo paper
-    - Paper dedicated for thermotransfer
-- Cleaning the surface
-    - Cleaning milk
-    - Sandpaper (1000)
-    - Isopropanol
-    - Nitro
-    - Acetone
-- Transferring traces
-    - Chemotransfer, using Moisturising polish remover (containing acetone)
-    - Chemotransfer, using Acetone/Isopropanol 30/70
-    - Thermotransfer, using iron, 2.5 dots/~200 degrees Celsius
-    - Thermotransfer, using laminator
-- Removing chalk paper
-    - In the water
-    - In the warm water with few drops of dish soap
-    - In the warm water with washing powder
-    - In the water with vinegar (30%)
-    - Damp sponge
-    - Toothbrush (probably at the end of one of the process above)
-- Fixing broken paths
-    - Permanent marker
-    - Corrector
-- Etching
-    - NaSO (B327) (laying PCB on the top of the surface)
-    - NaSO (B327) (sinking PCB and moving the container)
-    - NaSO (B327) (hanging PCB from the top into the etcher)
-    - NaSO (B327) (50 degrees Celsius)
-    - FeCl
-- Removing tonner
-    - Nitro
-    - Sandpaper (2000)
-    - Cleaning milk
-    - Acetone
-    - Damp sponge
-- Copper protection
-    - Solder mask Mechanik
-    - Solder mask Relief
-    - Tine
-    - Colophony dissolved in nitro
-    - Nothing
-- Solder mask removal from fields
-    - Film stencil placed on top during solder mask UV hardening
-    - Scraping
-- Drills
-    - Before etching
-    - After solder mask application
-    - After tinning
-- Silk screen (application/transfer methods the same as for traces)
-    - Under solder mask
-    - On top of solder mask
-- Protecting from oxidising
-    - Sinking in methylated spirits (denaturat)
-    - Colophony dissolved in nitro
-    - Nothing
-
 #### Mark 1
 
 The printout for the first instance of PCB was printed on the page from magazine.
@@ -221,7 +158,7 @@ The traces were removed using nitro:
 <img src="images/photorelation/20_mk1_wipe.jpg" alt="Mark 1 wipe" style="width:300px;"/>
 <img src="images/photorelation/21_mk1_wpied.jpg" alt="Mark 1 wiped" style="width:300px;"/>
 
-### Mark 2
+#### Mark 2
 
 The traces were printed on the glossy side of thermotransfer paper. Unfortunately, the result was bad. Another try was
 printing on the magazine page, this time more glossy.
@@ -323,7 +260,7 @@ up, multiple layers. 2 hours could be too long (mask was hard even under the ste
 
 <img src="images/photorelation/56_mk2_soldermask_application.jpg" alt="Mark 2 solder mask application" style="width:300px;"/>
 
-The solder mask was hardened using UV diode light (~2h), pressed with a glass dish, but the effect was far from 
+The solder mask was hardened using UV diode light (~2h), pressed with a glass dish, but the effect was far from
 expected, the dish is not perfectly flat (**For the future: try pressing with glass**).
 
 <img src="images/photorelation/57_mk2_soldermask_hardening.jpg" alt="Mark 2 solder mask hardening" style="width:300px;"/>
@@ -409,12 +346,118 @@ Drilling was performed using table drill.
 <img src="images/photorelation/83_mk2_drill.jpg" alt="Mark 2 drill" style="width:300px;"/>
 <img src="images/photorelation/84_mk2_drill.jpg" alt="Mark 2 drill" style="width:300px;"/>
 
-After cutting edges, the final effect was as below. **For the future: try cutting on the initial phase of PCB 
+After cutting edges, the final effect was as below. **For the future: try cutting on the initial phase of PCB
 production.**
 
 <img src="images/photorelation/85_mk2_cutting.jpg" alt="Mark 2 cutting" style="width:300px;"/>
 <img src="images/photorelation/86_mk2_final.jpg" alt="Mark 2 final back" style="width:300px;"/>
 <img src="images/photorelation/87_mk2_final.jpg" alt="Mark 2 final front" style="width:300px;"/>
+
+#### Mark 3
+
+- For Mark 3 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with file.
+- The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
+- The copper layer was printed on a big piece of glossy page from magazine, 'Small drill mark' option selected.
+- The paths were transferred using Moisturising polish remover with paper wrapped around copper as envelope (seems worse
+  than fine-cut piece).
+- The paths were corrected with marker, corrector and scalpel.
+- The holes for mounting points were drilled after etching, before toner removal.
+- After etching toner was removed using Acetone.
+- The PCB was cleaned with Isopropanol and dried with hot air (270 degrees Celsius).
+- The front side of PCB was covered with tape before solder mask application.
+- _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film. On top of it
+  another stencil, printed down on glossy film was placed. It was pressed between two acryl panes and left for 10
+  minutes to spread evenly.
+- The first UV hardening took 30 minutes, half by half, from 10cm.
+- The fields were removed with Isopropanol. Unfortunately, the result was poor. Longer hardening needed? Also the layer
+  was too thick.
+
+<img src="images/photorelation/88_mk3_final_front.jpg" alt="Mark 3 final front" style="width:300px;"/>
+<img src="images/photorelation/89_mk3_final_front.jpg" alt="Mark 3 final back" style="width:300px;"/>
+
+#### Mark 4
+
+- For Mark 4 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with a file.
+- The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
+- The copper layer was printed on a big piece of glossy page from magazine, 'Small drill mark' option selected.
+- The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
+- The PCB was fine-cut, the edges were smoothed with a file and sandpaper (grade 150). The file was a bad idea.
+- The paths were corrected with marker and scalpel.
+- The holes for mounting points were drilled after etching.
+- After etching toner was removed using Acetone.
+- The entire PCB (both sides, edges) was smoothed with sandpaper (grade 1000) and cleaned with Nitro (outperforms even
+  Acetone).
+- _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film. On top of it
+  another stencil, printed down on glossy film was placed. It was pressed between two acryl panes.
+- The first UV hardening took 45 minutes, equally covered by light, from 20cm.
+- The fields were removed with Isopropanol. They were also corrected by Acetone, but it seems to be too aggressive.
+  Unfortunately, the result was poor. Also, the layer was too thick.
+- The missing parts of back side solder mask was covered with brush and toothpick.
+- Fields were tinned before drilling.
+
+<img src="images/photorelation/90_mk4_final_front.jpg" alt="Mark 4 final front" style="width:300px;"/>
+<img src="images/photorelation/91_mk4_final_front.jpg" alt="Mark 4 final back" style="width:300px;"/>
+
+#### Mark 5
+
+- For Mark 5 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with a file. Seems to be a bad idea,
+  solder mask is fragile and breaks, it's better to fine-cut before etching.
+- The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
+- The copper layer was printed on a big piece of glossy page from magazine, 'No drill mark' option selected.
+- The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
+- The PCB was fine-cut, the edges were smoothed with a file and sandpaper (grade 150). The file was a bad idea.
+- The paths were corrected with marker and scalpel.
+- The holes for mounting points were drilled before etching. Seems to be a good idea, holes were smoother after etching.
+- After etching toner was removed using Acetone.
+- The entire PCB (both sides, edges) was smoothed with sandpaper (grade 1000) and cleaned with Acetone.
+- Both sides were painted with a colophony dissolved in Nitro (seems like a bad idea, stencil got stuck).
+- _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film (printed twice). On
+  top of it another stencil, printed down on glossy film was placed. It was pressed between two acryl panes.
+- The first UV hardening took 90 minutes (each corner first, 15 minutes, central later, 30 minutes).
+- The fields were removed with Isopropanol.
+- The front side was cleaned with Isopropanol before solder mask application. The back side was covered with tape.
+- _Mechanic_ solder mask was applied to the front side using a plastic card through a matt film. It was pressed between
+  two acryl panes, but the top glass was removed before hardening.
+- The UV hardening took 1 hour (each corner first, 10 minutes, central later, 20 minutes).
+- The film was removed millimeter by millimeter, starting with corners, holding with a plastic card.
+- The result was OK, but it was better when the hardening time was longer.
+- Both sides were again painted with a colophony dissolved in Nitro
+
+<img src="images/photorelation/92_mk5_final_front.jpg" alt="Mark 5 final front" style="width:300px;"/>
+<img src="images/photorelation/93_mk5_final_front.jpg" alt="Mark 5 final back" style="width:300px;"/>
+
+#### Mark 6
+
+- For Mark 6 a copper piece (~120 x ~100 mm) was cut. The edges were smoothed with a file.
+- The surface (both sides) were cleaned with cleaning milk, sand paper (1000), Acetone and Isopropanol.
+- The copper layer was printed on a big piece of glossy page from magazine, 'No drill mark' option selected.
+- The paths were transferred using Moisturising polish remover with paper fine cut and stuck to copper using paper tape.
+- The PCB was fine-cut, the edges were smoothed with a file and sandpaper (grade 150). The file was a bad idea.
+- The paths were corrected with marker and scalpel.
+- The holes for mounting points were drilled before etching. Seems to be a good idea, holes were smoother after etching.
+- After etching toner was removed using Acetone.
+- The entire PCB (both sides, edges) was smoothed with sandpaper (grade 1000) and cleaned with Nitro (outperforms even
+  Acetone).
+- The front side of PCB was covered with tape before solder mask application.
+- _Mechanic_ solder mask was applied using a plastic card through a stencil printed down on mat film (printed twice). It
+  was pressed between two acryl panes, but the top glass was removed before hardening.
+- The UV hardening took 1 hour 15 minutes (each corner first, 15 minutes, central later, 15 minutes).
+- The stencil was removed millimeter by millimeter, starting with corners, holding with a plastic card. The fields were
+  removed with Isopropanol. The result was pretty OK. The fields were smaller than expected, try shortening the
+  hardening time.
+- The front side was cleaned with Isopropanol before solder mask application. The back side was covered with tape.
+- _Mechanic_ solder mask was applied to the front side using a plastic card through a matt film. It was pressed between
+  two acryl panes, but the top glass was removed before hardening.
+- The UV hardening took 1.5 hour (each corner first, 20 minutes, central later, 30 minutes).
+- The stencil was removed millimeter by millimeter, starting with corners, holding with a plastic card. The fields were
+  removed with Isopropanol. The result was pretty good. Could consider shorter hardening.
+- The silkscreen was printed (twice) on chalk paper and transferred with iron.
+- Corners were again covered with solder mask, where it was missing. The result was OK, but try another layer of solder
+  mask.
+- Fields were tinned before drilling.
+
+<img src="images/photorelation/94_mk6_final_front.jpg" alt="Mark 6 final front" style="width:300px;"/>
+<img src="images/photorelation/95_mk6_final_front.jpg" alt="Mark 6 final back" style="width:300px;"/>
 
 ## PCB ordering
 
